@@ -1,0 +1,7 @@
+C:\Users\tek\source\repos\mattcorrAssignment1\mattcorrAssignment1\obj\Debug\mattcorrAssignment1.csprojResolveAssemblyReference.cache
+C:\Users\tek\source\repos\mattcorrAssignment1\mattcorrAssignment1\obj\Debug\mattcorrAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\tek\source\repos\mattcorrAssignment1\mattcorrAssignment1\bin\Debug\mattcorrAssignment1.exe.config
+C:\Users\tek\source\repos\mattcorrAssignment1\mattcorrAssignment1\bin\Debug\mattcorrAssignment1.exe
+C:\Users\tek\source\repos\mattcorrAssignment1\mattcorrAssignment1\bin\Debug\mattcorrAssignment1.pdb
+C:\Users\tek\source\repos\mattcorrAssignment1\mattcorrAssignment1\obj\Debug\mattcorrAssignment1.exe
+C:\Users\tek\source\repos\mattcorrAssignment1\mattcorrAssignment1\obj\Debug\mattcorrAssignment1.pdb
